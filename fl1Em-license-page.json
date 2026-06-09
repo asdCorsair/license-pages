@@ -1,6 +1,6 @@
 {
   "app": "wb-orders-collector",
-  "status": "expired",
-  "valid_until": "2026-05-11T23:59:59Z",
-  "message": "Contact the developer"
+  "status": "paid",
+  "valid_until": null,
+  "message": "Paid license active"
 }
